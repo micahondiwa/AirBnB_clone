@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""The concolse"""
+"""The console"""
 
 
 import cmd
