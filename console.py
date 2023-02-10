@@ -1,9 +1,7 @@
 #!/usr/bin/python3
 """The console"""
 
-
 import cmd
-
 class HBNBCommand(cmd.Cmd):
 
     prompt = '(hbnb) '
