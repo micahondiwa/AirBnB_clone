@@ -1,1 +1,13 @@
-header
+header {
+  color: white;
+  height: 70px;
+  width: 100%;
+  border-bottom: 1px solid #cccccc;
+}
+
+logo {
+  display: block;
+  float: left;
+  margin-left: 20px;
+  line-height: 70px;
+}
