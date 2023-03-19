@@ -1,2 +1,5 @@
 # AirBnB_clone
-# AirBnB clone
+- The console
+- Web Static
+- MySQL
+- Web Infrastructure
