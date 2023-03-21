@@ -1,2 +1,9 @@
 # AirBnB_clone
-0x00. AirBnB clone - The console
+- The console
+- Web Static
+- MySQL
+- Web Infrastructure
+- Configuration
+- RESTful API
+- Web dynamics
+- Application Server
