@@ -5,5 +5,4 @@
 - Web Infrastructure
 - Configuration
 - RESTful API
-- Web dynamics
 - Application Server
